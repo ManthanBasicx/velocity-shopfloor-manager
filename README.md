@@ -1,1 +1,0 @@
-# velocity-shopfloor-manager
